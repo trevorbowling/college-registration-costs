@@ -1,0 +1,19 @@
+C:\Users\Trevor\Documents\Spring 2014\CIT 248 - Visual Basic II - Spring 2014\CollegeRegistrationCosts\CollegeRegistrationCosts\obj\x86\Debug\CollegeRegistrationCosts.frmRegistrationCostForm.resources
+C:\Users\Trevor\Documents\Spring 2014\CIT 248 - Visual Basic II - Spring 2014\CollegeRegistrationCosts\CollegeRegistrationCosts\obj\x86\Debug\CollegeRegistrationCosts.Resources.resources
+C:\Users\Trevor\Documents\Spring 2014\CIT 248 - Visual Basic II - Spring 2014\CollegeRegistrationCosts\CollegeRegistrationCosts\obj\x86\Debug\CollegeRegistrationCosts.vbproj.GenerateResource.Cache
+C:\Users\Trevor\Documents\Spring 2014\CIT 248 - Visual Basic II - Spring 2014\CollegeRegistrationCosts\CollegeRegistrationCosts\bin\Debug\CollegeRegistrationCosts.exe
+C:\Users\Trevor\Documents\Spring 2014\CIT 248 - Visual Basic II - Spring 2014\CollegeRegistrationCosts\CollegeRegistrationCosts\bin\Debug\CollegeRegistrationCosts.pdb
+C:\Users\Trevor\Documents\Spring 2014\CIT 248 - Visual Basic II - Spring 2014\CollegeRegistrationCosts\CollegeRegistrationCosts\bin\Debug\CollegeRegistrationCosts.xml
+C:\Users\Trevor\Documents\Spring 2014\CIT 248 - Visual Basic II - Spring 2014\CollegeRegistrationCosts\CollegeRegistrationCosts\obj\x86\Debug\CollegeRegistrationCosts.exe
+C:\Users\Trevor\Documents\Spring 2014\CIT 248 - Visual Basic II - Spring 2014\CollegeRegistrationCosts\CollegeRegistrationCosts\obj\x86\Debug\CollegeRegistrationCosts.xml
+C:\Users\Trevor\Documents\Spring 2014\CIT 248 - Visual Basic II - Spring 2014\CollegeRegistrationCosts\CollegeRegistrationCosts\obj\x86\Debug\CollegeRegistrationCosts.pdb
+C:\Users\TREVOR\Google Drive\xxxschool - jefferson community collegexxx\Spring 2014\CIT 248 - Visual Basic II - Spring 2014\CollegeRegistrationCosts\CollegeRegistrationCosts\obj\x86\Debug\CollegeRegistrationCosts.exe
+C:\Users\TREVOR\Google Drive\xxxschool - jefferson community collegexxx\Spring 2014\CIT 248 - Visual Basic II - Spring 2014\CollegeRegistrationCosts\CollegeRegistrationCosts\obj\x86\Debug\CollegeRegistrationCosts.xml
+C:\Users\TREVOR\Google Drive\xxxschool - jefferson community collegexxx\Spring 2014\CIT 248 - Visual Basic II - Spring 2014\CollegeRegistrationCosts\CollegeRegistrationCosts\obj\x86\Debug\CollegeRegistrationCosts.pdb
+C:\Users\TREVOR\Google Drive\xxxschool - jefferson community collegexxx\Spring 2014\CIT 248 - Visual Basic II - Spring 2014\CollegeRegistrationCosts\CollegeRegistrationCosts\bin\Debug\CollegeRegistrationCosts.exe
+C:\Users\TREVOR\Google Drive\xxxschool - jefferson community collegexxx\Spring 2014\CIT 248 - Visual Basic II - Spring 2014\CollegeRegistrationCosts\CollegeRegistrationCosts\bin\Debug\CollegeRegistrationCosts.pdb
+C:\Users\TREVOR\Google Drive\xxxschool - jefferson community collegexxx\Spring 2014\CIT 248 - Visual Basic II - Spring 2014\CollegeRegistrationCosts\CollegeRegistrationCosts\bin\Debug\CollegeRegistrationCosts.xml
+C:\Users\TREVOR\Google Drive\xxxschool - jefferson community collegexxx\Spring 2014\CIT 248 - Visual Basic II - Spring 2014\CollegeRegistrationCosts\CollegeRegistrationCosts\obj\x86\Debug\CollegeRegistrationCosts.vbprojResolveAssemblyReference.cache
+C:\Users\TREVOR\Google Drive\xxxschool - jefferson community collegexxx\Spring 2014\CIT 248 - Visual Basic II - Spring 2014\CollegeRegistrationCosts\CollegeRegistrationCosts\obj\x86\Debug\CollegeRegistrationCosts.frmRegistrationCostForm.resources
+C:\Users\TREVOR\Google Drive\xxxschool - jefferson community collegexxx\Spring 2014\CIT 248 - Visual Basic II - Spring 2014\CollegeRegistrationCosts\CollegeRegistrationCosts\obj\x86\Debug\CollegeRegistrationCosts.Resources.resources
+C:\Users\TREVOR\Google Drive\xxxschool - jefferson community collegexxx\Spring 2014\CIT 248 - Visual Basic II - Spring 2014\CollegeRegistrationCosts\CollegeRegistrationCosts\obj\x86\Debug\CollegeRegistrationCosts.vbproj.GenerateResource.Cache
